@@ -1,0 +1,144 @@
+.container
+{
+	width:100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-image: url("../images/image1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.8%;
+	z-index: 4px;
+}
+.header
+{
+	width: 100%;
+	background-color: #70BFD3;
+	height: 10%;
+	top: 0;
+	left: 0;
+	z-index: 4px;
+	position: fixed;
+}
+.sign_up
+{
+	border-radius: 5px;
+	width: auto;
+	padding: 5px;
+	margin-left:76%;
+	margin-top: 1.5%;
+	font-weight: bold;
+	background-color: #D6EBF0;
+}
+.sign_up:hover
+{
+	background-color: #E7F1DF;
+}
+.header1
+{
+	width:30%;
+	height: 70%;
+	margin: 15%;
+	background-color: white;
+	padding-bottom: 2%;
+	border: 1px solid black;
+	border-color: #D5E1E5;
+	border-radius: 5px;
+	position: relative;
+}
+.header1 #hlogin
+{
+	border-radius: 4px;
+	padding: 6px;
+	font-family: 'Lucida Sans Unicode','Lucida Granda', 'sans-serif';
+	width: 90%;
+	background-color: #70BFD3;
+}
+.header1 .input
+{
+	padding: 2%;
+	width: 90%;
+	border-radius: 6px;
+}
+.header1 #btn
+{
+	padding: 3px;
+	font-family: 'Lucida Sans Unicode','Lucida Granda', 'sans-serif';
+	font-weight: bold;
+	background-color: #D6EBF0; 
+	border-radius: 4px;
+}
+#btn:hover
+{
+	background-color: #E7F1DF;	
+}
+#hr1
+{
+	margin-top: 10px;
+	width: 90%;
+	background-color: #D5E1E5;
+}
+.header2
+{
+	margin: 5%;
+	width:30%;
+	height: 70%;
+	background-color: white;
+	padding-bottom: 2%;
+	border: 1px solid black;
+	border-color: #D5E1E5;
+	border-radius: 5px;
+	position: relative;
+}
+.header2 #hlogin
+{
+	border-radius: 4px;
+	padding: 6px;
+	font-family: 'Lucida Sans Unicode','Lucida Granda', 'sans-serif';
+	width: 90%;
+	background-color: #70BFD3;
+}
+.header2 .input
+{
+	padding: 2%;
+	width: 90%;
+	border-radius: 6px;
+}
+.header2 #btn
+{
+	padding: 3px;
+	font-family: 'Lucida Sans Unicode','Lucida Granda', 'sans-serif';
+	font-weight: bold;
+	background-color: #D6EBF0; 
+	border-radius: 4px;
+}
+.header2 #btn:hover
+{
+	background-color: #E7F1DF;
+}
+.rules
+{
+	font-weight: bold;
+	text-align: left;
+}
+.rules_page
+{
+	margin-top: 8%;
+}
+#btn2
+{
+	padding: 3px;
+	font-family: 'Lucida Sans Unicode','Lucida Granda', 'sans-serif';
+	font-weight: bold;
+	background-color: #D6EBF0; 
+	border-radius: 4px;	
+}
+#btn2:hover
+{
+	background-color: #E7F1DF;	
+}
+
+#h33
+{
+	padding-left: 10px;
+}
